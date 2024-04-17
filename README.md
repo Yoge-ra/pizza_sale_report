@@ -40,7 +40,7 @@ Congratulations! You’ve reached the end of this README. 🎉 Thank you for tak
 
 3. **Contributions:**
 
-* If you find any issues or have ideas for improvements, feel free to contribute! Open an issue or submit a pull request—we welcome your input.
+* If you find any issues or have ideas for improvements, feel free to contribute! Open an issue or submit a pull request - welcome your input.
 
 Feel free to fork this repository, customize it for your own data, and share your findings with the community. Happy analyzing! 🚀
 
